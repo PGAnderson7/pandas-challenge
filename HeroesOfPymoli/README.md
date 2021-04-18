@@ -1,0 +1,2 @@
+# Pandas Challenge Code Description
+This code reads a sheet of purchase data for a video game named Heros of Pymoli.  It analyzes the data and displays a variety of tables summarizing the data based on gender, age demographics, top spending players, and most popular and profitable items.  The jupyter notebook has instructions for each section and I have the individual instuctions commented for each part too.
